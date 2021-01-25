@@ -1,0 +1,13 @@
+Windows API index：
+https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
+
+pywin32:
+https://github.com/mhammond/pywin32
+https://www.cnblogs.com/achillis/p/10462585.html
+https://www.cnblogs.com/enumx/p/12336441.html
+https://www.cnblogs.com/weiyinfu/p/8051280.html
+pywin32.chm !!!
+
+Microsoft Foundation Classes(MFC):
+https://docs.microsoft.com/en-us/cpp/mfc/reference/mfc-classes?view=vs-2019
+

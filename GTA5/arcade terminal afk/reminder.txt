@@ -1,0 +1,2 @@
+用win32gui里 setfocus 和 getfocus，bringwindowtotop 转换窗口，还有getactivewindow setactivewindow etc.
+
